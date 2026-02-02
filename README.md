@@ -7,6 +7,7 @@ To fix rate edits do the following:
 - Enter the path to your modified_mp3_list (next time you can press 0 to use the stored path you entered last time)
 - Rate edit maps using osu!trainer
 - They should automatically get updated and show a success message in the console
+- It must be running and have the folder to fix rate edits, dont forget to open it whenever you want them fixed. good luck!
 
 RATE EDITS CURRENTLY ARE BROKEN IF YOU ALREADY HAVE A RATE EDIT OF THAT RATE
 - I really cant be bothered fixing this, I know the reason why its an issue and itd be a whole thing. Anyway please just create rate edits of a different rate OR remove them from your modified_mp3_list and then delete the modified mp3 for the rate
